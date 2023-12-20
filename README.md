@@ -4,7 +4,7 @@
 
 Easily incorporate LinuxKit kernel headers, BTF, and debugfs into your container. As a result, you can now execute BPF programs within Docker Desktop for Mac/Windows(WSL) and Linux.
 
-For profiling analysis would highly recommend reading [perf](https://perf.wiki.kernel.org/index.php/Main_Page) and [eBPF](http://www.brendangregg.com/ebpf.html), as well as this excellent post from (Netflix Performance Engineering team for their investigation process in 60 seconds)[https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55].
+For profiling analysis would highly recommend reading [perf](https://perf.wiki.kernel.org/index.php/Main_Page) and [eBPF](http://www.brendangregg.com/ebpf.html), as well as this excellent post from [Netflix Performance Engineering team for their investigation process in 60 seconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55).
 
 ### 60 second analysis
 ```
